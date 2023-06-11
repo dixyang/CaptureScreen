@@ -30,3 +30,12 @@
 *.exe
 *.out
 *.app
+
+# deprecate
+GetNameAndIp/x64
+*.mp4
+
+# Visual Studio
+.vs
+x64
+CaptureScreen/x64
